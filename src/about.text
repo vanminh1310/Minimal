@@ -1,0 +1,19 @@
+Smart home 
+    Linh kiện sử dụng: DHT11(nhiệt độ, độ ẩm),MQ02(khí ga), cảm biến lửa, relay 4 kênh(thiếu),nút bấm cảm ứng (4 cái),ESP32
+    - Sử dụng esp32 để đọc và chuyền nhận dữ liệu lên firebase.
+    - app get dữ liệu về 
+# cấu trúc dữ liệu gửi đi 
+    Dữ liệu được gửi lên theo định dạng json gồm có nhứng biến sau:
+    + Địa chỉ MAC: để định danh thiết bị 
+    + Nhiệt độ: giá trị nhiệt độ đọc đc 
+    + Độ ẩm: giá trị độ ẩm đọc được 
+    + Khí ga: 0 or 1 (có hoặc không)
+    + relay: TB1...Tb4.(bao gồm trạng thái on hay off)
+    {MAC:"dhsjd",Nhiệt độ:"30",Độ ẩm:"90",Khí ga:"0",TB1:"0"...}
+
+id: 1566083
+key: 1a4ba74f0e29182f375f08bbb27b4462
+http://api.openweathermap.org/data/2.5/weather?id=1566083&appid=1a4ba74f0e29182f375f08bbb27b4462
+
+
+    

@@ -1,0 +1,48 @@
+{
+  "Home" : {
+    "24:62:AB:F9:22:0C" : {
+      "Device" : {
+        "Fan" : 0,
+        "Light" : 0,
+        "Light2" : 0,
+        "Light3" : 0,
+        "air_conditioner" : 0,
+        "device_1" : 0,
+        "device_2" : 0,
+        "device_3" : 0,
+        "device_4" : 0,
+        "device_5" : 1,
+        "device_6" : 0,
+        "device_7" : 0,
+        "device_8" : 0,
+        "fan" : 0,
+        "light" : 0,
+        "light_bulb" : 0,
+        "outlet" : 0,
+        "top_fan" : 0,
+        "top_light" : 0,
+        "top_light_bulb" : 0
+      },
+      "Sensor" : {
+        "fire" : 1,
+        "gas" : 0,
+        "humidity" : 81,
+        "temperature" : 28
+      }
+    }
+  },
+  "User" : {
+    "QbKTN1tUr6SoHn9sAsCQXWkDdtg2" : {
+      "email" : "jaykitprz@outlook.com",
+      "name" : "jaykit"
+    },
+    "cnwaoW6m9gVHmtpjDwfxhpRZTyh1" : {
+      "email" : "jaykitprz@gmail.com",
+      "name" : "Kiet"
+    },
+    "irwbtqb6ZqPUTVwrJmzx9yYZG9z1" : {
+      "email" : "jaykit.dev@yahoo.com",
+      "name" : "Mai"
+    }
+  }
+}
