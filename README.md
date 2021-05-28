@@ -1,3 +1,3 @@
 # Minimal
-## ESP32 Firebase Androi App
+## ESP32 Firebase Android App
 
