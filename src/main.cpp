@@ -365,12 +365,12 @@ void get_data()
       if (g1 == 0)
       {
         digitalWrite(tb2, LOW);
-        b1=0;
+        b1 = 0;
       }
       if (g1 == 1)
       {
         digitalWrite(tb2, HIGH);
-           b1=0;
+        b1 = 0;
       }
     }
   }
@@ -385,12 +385,12 @@ void get_data()
       if (g1 == 0)
       {
         digitalWrite(tb3, LOW);
-        c1=0;
+        c1 = 0;
       }
       if (g1 == 1)
       {
         digitalWrite(tb3, HIGH);
-        c1=0;
+        c1 = 0;
       }
     }
   }
@@ -405,12 +405,12 @@ void get_data()
       if (g1 == 0)
       {
         digitalWrite(tb4, LOW);
-        d1=0;
+        d1 = 0;
       }
       if (g1 == 1)
       {
         digitalWrite(tb4, HIGH);
-        d1=0;
+        d1 = 0;
       }
     }
   }
